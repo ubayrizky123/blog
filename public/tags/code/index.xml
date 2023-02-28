@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on ubay</title>
+    <link>https://username.github.io/tags/code/</link>
+    <description>Recent content in code on ubay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>Rizky.baedillah19@gmail.com (bay12)</managingEditor>
+    <webMaster>Rizky.baedillah19@gmail.com (bay12)</webMaster>
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://username.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MATERI 2</title>
+      <link>https://username.github.io/post/2016-03-08-code-sample/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <author>Rizky.baedillah19@gmail.com (bay12)</author>
+      <guid>https://username.github.io/post/2016-03-08-code-sample/</guid>
+      <description>A. Direct Current atau yang biasa disingkat DC merupakan tipe arus listrik searah.
+B. Alternating Current atau yang biasa disingkat AC merupakan tipe arus listrik bolak-balik.
+C. Inverter adalah salah satu komponen terpenting dan paling kompleks dari sistem independen.
+D. Converter adalah sebuah Listrik atau perangkat elektromekanis untuk konversi energi listrik.</description>
+    </item>
+    
+  </channel>
+</rss>
